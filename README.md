@@ -1,1 +1,3 @@
 # AverageCalculate
+
+www.patika.dev
